@@ -1,0 +1,5 @@
+Model Download Metadata File
+============================
+Model downloaded by: F L (chris.deguise@geopi.pe)
+UTM base point: easting = 585216.000000, northing = 4512512.000000, up = 0.000000
+Geographic base point: 40.759157, -73.990422 altitude 0.000000

@@ -1,7 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
 using Photon.Pun;
-using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoadingSceneManager : MonoBehaviourPunCallbacks
@@ -17,7 +14,7 @@ public class LoadingSceneManager : MonoBehaviourPunCallbacks
     }
     
     public override void OnJoinedLobby() {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(3);
     }
     
     
